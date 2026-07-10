@@ -1,0 +1,397 @@
+====================================================
+SOLAR WEBSITE ENGINE v1.0
+====================================================
+
+PURPOSE
+
+Build a premium, modern, responsive solar energy company website suitable for Nigerian solar businesses.
+
+The website should look like it was designed specifically for the company while using this reusable engine.
+
+The final design must feel premium, trustworthy, clean and conversion-focused.
+
+Never create a generic-looking template.
+
+====================================================
+DESIGN STYLE
+====================================================
+
+Style
+
+Modern
+
+Premium
+
+Minimal
+
+Corporate
+
+Technology Inspired
+
+Professional
+
+Luxury without looking expensive
+
+Spacing
+
+Large spacing
+
+Lots of white space
+
+Rounded cards
+
+Soft shadows
+
+Clean layout
+
+Animations
+
+Subtle fade animations
+
+Hover effects
+
+Smooth scrolling
+
+Micro interactions
+
+Never overuse animations.
+
+====================================================
+COLORS
+====================================================
+
+Always use the company's primary brand color.
+
+Use white backgrounds.
+
+Use dark text.
+
+Use the secondary color only for accents.
+
+Buttons should use the primary brand color.
+
+====================================================
+TYPOGRAPHY
+====================================================
+
+Large bold headings.
+
+Readable paragraphs.
+
+Short paragraphs.
+
+Strong visual hierarchy.
+
+Easy to scan.
+
+====================================================
+PAGE STRUCTURE
+====================================================
+
+1 Header
+
+Logo
+
+Navigation
+
+Call Button
+
+WhatsApp Button
+
+----------------------------------------------------
+
+2 Hero
+
+Headline
+
+Subheadline
+
+Primary CTA
+
+Secondary CTA
+
+Hero Image
+
+----------------------------------------------------
+
+3 Why Solar
+
+Brief section explaining why solar energy is valuable.
+
+Focus on
+
+Reliable electricity
+
+Lower electricity bills
+
+Energy independence
+
+Long-term savings
+
+Environmental benefits
+
+----------------------------------------------------
+
+4 Services
+
+Display as cards.
+
+Typical services include
+
+Residential Solar Installation
+
+Commercial Solar Installation
+
+Solar Inverter Systems
+
+Battery Storage
+
+Maintenance
+
+Energy Consultation
+
+----------------------------------------------------
+
+5 Why Choose Us
+
+Professional Installation
+
+Quality Equipment
+
+Reliable Support
+
+Tailored Solutions
+
+Experienced Team
+
+Fast Response
+
+----------------------------------------------------
+
+6 Installation Process
+
+Step 1
+
+Consultation
+
+Step 2
+
+Site Assessment
+
+Step 3
+
+Installation
+
+Step 4
+
+Testing
+
+Step 5
+
+Support
+
+----------------------------------------------------
+
+7 Gallery
+
+Use installation images.
+
+Use equipment images.
+
+Use technician images.
+
+Never repeat the same image next to itself.
+
+----------------------------------------------------
+
+8 Frequently Asked Questions
+
+What size solar system do I need?
+
+How long does installation take?
+
+Can solar power my entire home?
+
+Do you offer maintenance?
+
+How long do batteries last?
+
+----------------------------------------------------
+
+9 Final CTA
+
+Ready to switch to reliable solar energy?
+
+Contact us today for a consultation.
+
+Call Now
+
+WhatsApp Us
+
+----------------------------------------------------
+
+10 Footer
+
+Logo
+
+Quick Links
+
+Services
+
+Contact Information
+
+Social Links
+
+Copyright
+
+====================================================
+ABOUT SECTION
+====================================================
+
+We help homeowners, businesses and organisations enjoy reliable electricity through professionally designed solar energy systems.
+
+Our solutions are tailored to reduce dependence on unreliable power while improving long-term energy savings and peace of mind.
+
+From consultation to installation and ongoing support, we focus on delivering dependable solar solutions designed around each customer's energy needs.
+
+====================================================
+WHY SOLAR
+====================================================
+
+Reduce electricity costs.
+
+Enjoy reliable power.
+
+Increase property value.
+
+Reduce dependence on the national grid.
+
+Invest in long-term energy savings.
+
+====================================================
+WHY CHOOSE US
+====================================================
+
+Professional Installation
+
+Quality Solar Equipment
+
+Reliable Customer Support
+
+Tailored Energy Solutions
+
+Clean Workmanship
+
+Long-Term Value
+
+====================================================
+SERVICE DESCRIPTIONS
+====================================================
+
+Residential Solar Installation
+
+Reliable solar systems designed for homes of all sizes.
+
+Commercial Solar Solutions
+
+Reduce operating costs with dependable commercial solar energy systems.
+
+Solar Inverter Installation
+
+Professional inverter installation for uninterrupted power supply.
+
+Battery Storage Systems
+
+Store excess energy for use whenever you need it.
+
+Solar Maintenance
+
+Keep your solar investment performing efficiently with routine maintenance.
+
+Energy Consultation
+
+Receive expert advice on choosing the right solar solution for your needs.
+
+====================================================
+CALL TO ACTIONS
+====================================================
+
+Book a Free Consultation
+
+Request a Quote
+
+Talk to Our Team
+
+Call Now
+
+Chat on WhatsApp
+
+Get Started Today
+
+====================================================
+FOOTER DESCRIPTION
+====================================================
+
+Helping homes and businesses achieve reliable, efficient and sustainable energy solutions through professionally installed solar systems.
+
+====================================================
+BUILD RULES
+====================================================
+
+Never redesign the layout.
+
+Always keep the section order.
+
+Always use local images.
+
+Never invent company history.
+
+Never invent customer testimonials.
+
+Never invent awards.
+
+Never invent certifications.
+
+Never invent years of experience.
+
+Never invent project statistics.
+
+If company information is missing, simply omit it while preserving the layout.
+
+Always keep the design responsive.
+
+Always optimise for mobile devices.
+
+Prioritise readability over decoration.
+
+Every section should encourage trust.
+
+The website should look premium enough that the business owner immediately wants it.
+
+====================================================
+IMAGE USAGE
+====================================================
+
+Hero
+
+Use hero images.
+
+Gallery
+
+Use installation images.
+
+Services
+
+Use equipment images.
+
+About
+
+Use technician images.
+
+Footer
+
+No background image.
+
+====================================================
+END OF WEBSITE ENGINE
+====================================================

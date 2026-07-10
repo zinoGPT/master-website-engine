@@ -1,0 +1,180 @@
+==================================================
+BUSINESS PROFILE
+==================================================
+
+Company Name:
+Renowatt Tech
+
+Industry:
+Solar Energy
+
+Business Style:
+Modern
+Corporate
+Professional
+Technology
+
+==================================================
+CONTACT INFORMATION
+==================================================
+
+Phone:
++2349031347876
+
+WhatsApp:
++2349031347876
+
+Email:
+info.renowatttech@gmail.com
+
+Address:
+23 Okunade Street, Mokola, Ibadan, Nigeria, 642114
+
+==================================================
+SOCIAL MEDIA
+==================================================
+
+Facebook:
+https://web.facebook.com/profile.php?id=61550643904250
+
+Instagram:
+https://www.instagram.com/renowatttech/
+
+==================================================
+BRAND COLORS
+==================================================
+
+Primary:
+#10234D
+
+Secondary:
+#FBCC0D
+
+Accent:
+#FFFFFF
+
+Light Background:
+#F3F4F6
+
+Dark Neutral:
+#3B4B6C
+
+==================================================
+BRAND APPLICATION
+==================================================
+
+Header Background:
+Primary
+
+Hero Background:
+Primary
+
+Buttons:
+Secondary
+
+Button Text:
+Primary
+
+Primary Heading:
+Primary
+
+Body Text:
+Dark Neutral
+
+Icons:
+Secondary
+
+Footer Background:
+Primary
+
+Footer Text:
+White
+
+Alternate Sections:
+Light Background
+
+==================================================
+SERVICES
+==================================================
+
+Residential Solar Installation
+
+Commercial Solar Installation
+
+Solar Inverter Systems
+
+Solar Battery Systems
+
+Solar Energy Consultation
+
+Solar Maintenance
+
+==================================================
+ABOUT
+==================================================
+
+Use the reusable content from WEBSITE_ENGINE.txt.
+
+==================================================
+FAQ
+==================================================
+
+Use the reusable FAQ from WEBSITE_ENGINE.txt.
+
+==================================================
+CALL TO ACTION
+==================================================
+
+Primary CTA
+
+Book a Free Consultation
+
+Secondary CTA
+
+Chat on WhatsApp
+
+==================================================
+IMAGES
+==================================================
+
+Use all images from the local images folder.
+
+Choose the most appropriate image for each section.
+
+Avoid repeating the same image on the same page.
+
+==================================================
+SPECIAL NOTES
+==================================================
+
+The website should feel like a premium technology company.
+
+Use generous white space.
+
+Keep the design clean and modern.
+
+Prioritize professionalism and trust.
+
+Encourage visitors to call or message on WhatsApp.
+
+==================================================
+MISSING INFORMATION
+==================================================
+
+Do not invent
+
+Years of Experience
+
+Testimonials
+
+Awards
+
+Certifications
+
+Completed Projects
+
+Number of Customers
+
+If any of the above are required,
+
+omit them while maintaining a premium layout.
